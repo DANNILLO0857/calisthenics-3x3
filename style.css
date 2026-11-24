@@ -6,3 +6,5 @@ body{background:radial-gradient(ellipse at top right,#26351c 0,transparent 380px
 .fable{font-family:"Kaiti TC",KaiTi,"Noto Serif CJK TC",serif;font-style:normal;font-size:14px;letter-spacing:2px;line-height:1.5}
 
 .fable{font-weight:700}
+
+.energyweek{display:grid;gap:8px}.energyweek>div{display:grid;grid-template-columns:48px 1fr 45px;align-items:center;gap:8px}.energyweek .bar{margin:0}

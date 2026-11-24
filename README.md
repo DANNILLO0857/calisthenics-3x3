@@ -22,3 +22,6 @@ Nuevo icono, firma by Daniel D. y referencia a la fábula. Conserva los datos ex
 
 ## V3.1
 Firma filosófica: 井底之蛙. Sin cambios en los registros.
+
+## V4.0
+Perfil adulto, balance energético, peso y promedio de días registrados. Conserva la clave local de datos. No requiere cambios al Worker. Subir todos los archivos web, incluido balance.js. IA requiere código de acceso y prueba real.
