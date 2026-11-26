@@ -25,3 +25,8 @@ Firma filosófica: 井底之蛙. Sin cambios en los registros.
 
 ## V4.0
 Perfil adulto, balance energético, peso y promedio de días registrados. Conserva la clave local de datos. No requiere cambios al Worker. Subir todos los archivos web, incluido balance.js. IA requiere código de acceso y prueba real.
+
+## V4.1
+Recordar acceso opcional en el dispositivo y botón Olvidar acceso. El código del Worker se guarda localmente sin cifrar si se activa la opción; no usar en dispositivos compartidos. No se guardan las claves de proveedores en la app. Actualizar ai.js, index.html y sw.js. No requiere cambios en Cloudflare.
+
+V5.0: subir todos los archivos a la raíz del mismo repositorio. Exportar copia JSON antes de actualizar. Running reemplaza Laboratory en navegación; notas y copias siguen accesibles. GPS requiere HTTPS, permisos y pantalla abierta; caminadora usa velocidad manual. Tarjeta PNG con trazado sin mapa base. No hay notificaciones push, frecuencia cardíaca, parciales por km, plan de running ni fotografías nuevas en esta entrega. Kilometraje supone un único par. No se ha probado en iPhone. No cambiar Worker.
