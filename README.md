@@ -33,3 +33,5 @@ V5.0: subir todos los archivos a la raíz del mismo repositorio. Exportar copia 
 
 ## V5.1 Design Edition
 Upload all files including the `images/` directory, preserving its structure. Original supplied photos are copied without AI modification. CSS overlays provide the three quotes. To replace a photo, retain its filename or update the CSS and service worker asset list. GitHub Pages is public: only publish photos you have permission to share. Existing localStorage key and AI scripts are unchanged. No new backend or push notifications. GPS background limitations remain. 
+
+V5.2: diseño compacto, iconos SVG, pestañas Workout, corrección de agua, ilustraciones SVG provisionales de Buda y caminadora. Conserva datos y conexión IA.
