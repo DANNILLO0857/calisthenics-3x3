@@ -35,3 +35,6 @@ V5.0: subir todos los archivos a la raíz del mismo repositorio. Exportar copia 
 Upload all files including the `images/` directory, preserving its structure. Original supplied photos are copied without AI modification. CSS overlays provide the three quotes. To replace a photo, retain its filename or update the CSS and service worker asset list. GitHub Pages is public: only publish photos you have permission to share. Existing localStorage key and AI scripts are unchanged. No new backend or push notifications. GPS background limitations remain. 
 
 V5.2: diseño compacto, iconos SVG, pestañas Workout, corrección de agua, ilustraciones SVG provisionales de Buda y caminadora. Conserva datos y conexión IA.
+
+## V5.3 Personal Edition
+Portadas de Consistency y Nutrition nuevas; almacenamiento sin cambios. Las fotografías nuevas se cargan desde URLs externas (no se pudieron descargar en el entorno de compilación). Sin conexión o si el servidor impide la carga, Nutrition conserva el SVG local y Consistency conserva fondo oscuro y texto. Para uso offline completo sustituir por archivos locales con permiso de uso. Fuentes: https://www.unternehmercoach.com/blog/balance-ist-die-grundlage-fuer-erfolg/ y https://www.starsinsider.com/lifestyle/546608/mudras-the-meaning-behind-the-buddhist-hand-gestures . Frases originales de la aplicación, no citas atribuidas.
