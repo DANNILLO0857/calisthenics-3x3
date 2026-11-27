@@ -55,3 +55,6 @@ Portadas de Consistency y Nutrition nuevas; almacenamiento sin cambios. Las foto
 
 ## V5.5.1.24 — partial QA refinement
 Rest timer presets, start/pause/reset; running totals and indoor card styling; local synthesized bowl-like tones replacing pink noise; cache-first for precached assets. No real recordings, natural narration or new photographs available: external downloads failed DNS. Existing remote photo references remain. No claim of measured speed improvement. Production unchanged. Browser/iPhone functional testing pending.
+
+## V5.5.1.25 — Mind Atmosphere
+Six selectable atmospheres (five local synthesized MP3s and silence), original bowls preserved, saved sound and volume preferences, three local vector landscape illustrations. Jay Shetty photo and real photography unavailable (network DNS failure); no new portrait or verified quote. Guided voice and previous functional bugs remain pending. No changes to other section layouts. Browser/iPhone and offline playback tests pending.
