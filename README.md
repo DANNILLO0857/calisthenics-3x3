@@ -52,3 +52,6 @@ Portadas de Consistency y Nutrition nuevas; almacenamiento sin cambios. Las foto
 - Closed accordions for eight-week history, energy target and weight tracking.
 - Cache version updated; local ambience included. No production deployment or storage migration.
 - Natural recorded voice and both approved photographs not included: external asset access unavailable. Browser/iPhone testing pending. JavaScript syntax and archive integrity checked.
+
+## V5.5.1.24 — partial QA refinement
+Rest timer presets, start/pause/reset; running totals and indoor card styling; local synthesized bowl-like tones replacing pink noise; cache-first for precached assets. No real recordings, natural narration or new photographs available: external downloads failed DNS. Existing remote photo references remain. No claim of measured speed improvement. Production unchanged. Browser/iPhone functional testing pending.
