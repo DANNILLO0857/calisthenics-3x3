@@ -38,3 +38,9 @@ V5.2: diseño compacto, iconos SVG, pestañas Workout, corrección de agua, ilus
 
 ## V5.3 Personal Edition
 Portadas de Consistency y Nutrition nuevas; almacenamiento sin cambios. Las fotografías nuevas se cargan desde URLs externas (no se pudieron descargar en el entorno de compilación). Sin conexión o si el servidor impide la carga, Nutrition conserva el SVG local y Consistency conserva fondo oscuro y texto. Para uso offline completo sustituir por archivos locales con permiso de uso. Fuentes: https://www.unternehmercoach.com/blog/balance-ist-die-grundlage-fuer-erfolg/ y https://www.starsinsider.com/lifestyle/546608/mudras-the-meaning-behind-the-buddhist-hand-gestures . Frases originales de la aplicación, no citas atribuidas.
+
+## V5.5.1.22 — development build
+- Nutrition camera/gallery controls, local WebP copies of three original portraits, names on all covers, Mind Beta from Home.
+- Mind uses device speech synthesis, three original guided scripts, silent timer, daily goal and independent streak/calendar. No pre-recorded voice or ambient audio yet. Keep screen active; background playback not validated.
+- Existing database key retained; export before installing. No production or Worker changes.
+- Buddha and Shi Heng Yi remain remote; treadmill remains illustration. Local photo acquisition pending. Browser/iPhone tests pending.
