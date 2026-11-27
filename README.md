@@ -44,3 +44,11 @@ Portadas de Consistency y Nutrition nuevas; almacenamiento sin cambios. Las foto
 - Mind uses device speech synthesis, three original guided scripts, silent timer, daily goal and independent streak/calendar. No pre-recorded voice or ambient audio yet. Keep screen active; background playback not validated.
 - Existing database key retained; export before installing. No production or Worker changes.
 - Buddha and Shi Heng Yi remain remote; treadmill remains illustration. Local photo acquisition pending. Browser/iPhone tests pending.
+
+## V5.5.1.23 — Development build
+- Mind: modal with introduction, countdown, pause/resume, cancel and local optional synthetic pink-noise ambience with volume. Previous device narration removed; timed written cues remain. Completed sessions retain existing database format.
+- Jay Shetty is named as Mind inspiration; user-selected quotation attribution unverified. Photo pending; gradient placeholder. Treadmill illustration hidden pending approved real photograph.
+- Workout technique links restyled; existing YouTube search destinations unchanged.
+- Closed accordions for eight-week history, energy target and weight tracking.
+- Cache version updated; local ambience included. No production deployment or storage migration.
+- Natural recorded voice and both approved photographs not included: external asset access unavailable. Browser/iPhone testing pending. JavaScript syntax and archive integrity checked.
